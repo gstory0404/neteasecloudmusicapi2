@@ -15,6 +15,8 @@ module.exports = (query, request) => {
           type: 'song',
           wifi: 0,
           source: 'list',
+          mainsite: 1,
+          content: ''
         },
       },
     ]),
